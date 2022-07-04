@@ -1,5 +1,8 @@
-### Hi my name is Srinivasan 👋
----
+<div align="center">
+<h1> Hi my name is Srinivasan 👋</h1>
+</div>
+
+
 #### We can connect through:
 <div>
 
@@ -10,10 +13,9 @@
 <a href="https://www.linkedin.com/in/srinivasan-natarajan-241611b7/"><img src="https://img.shields.io/badge/-Srinivasan_Natarajan-blue?logo=Linkedin&amp;logoColor=white&amp;link=https:https://www.linkedin.com/in/srinivasan-natarajan-241611b7/" alt="Linkedin Badge" height="25"></a>
 </div>
 
-----
 
 #### My stats:
-<p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=sriniva7&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriniva7&layout=compact&langs_count=8&card_width=447"/>
 </p>
