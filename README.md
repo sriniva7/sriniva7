@@ -1,6 +1,6 @@
 ### Hi my name is Srinivasan 👋
 ---
-#### we can connect through:
+#### We can connect through:
 <div>
 
 <div align="center">
@@ -10,23 +10,9 @@
 <a href="https://www.linkedin.com/in/srinivasan-natarajan-241611b7/"><img src="https://img.shields.io/badge/-Srinivasan_Natarajan-blue?logo=Linkedin&amp;logoColor=white&amp;link=https:https://www.linkedin.com/in/srinivasan-natarajan-241611b7/" alt="Linkedin Badge" height="25"></a>
 </div>
 
-<!--
-**sriniva7/sriniva7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ----
 
-#### My Stats:
+#### My stats:
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=sriniva7&show_icons=true"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sriniva7&layout=compact&langs_count=8&card_width=447"/>
