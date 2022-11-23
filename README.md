@@ -5,8 +5,6 @@
 ### About me
 - I am from India, South.
 
-:tea: My day begins with a Tea.
-
 :briefcase:	Software engineering is my profession.
 
 :toolbox:	 Currently contributing to open source - <a href="https://github.com/kubeshop/monokle">Monokle</a>.
