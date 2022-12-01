@@ -7,7 +7,7 @@
 
 :briefcase:	Software engineering is my profession.
 
-:toolbox:	 Currently contributing to open source - <a href="https://github.com/kubeshop/monokle">Monokle</a>.
+:toolbox:	 Currently contributing to open source.
 
 
 <div>
